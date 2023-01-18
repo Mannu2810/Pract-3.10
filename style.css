@@ -10,4 +10,6 @@ img.foto{
 img.escudo{
     width: 1400px;
     height:880px ;
+    position: relative;
+    right: -250px;
 }
